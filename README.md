@@ -7,6 +7,8 @@ https://github.com/user-attachments/assets/d7f5bbb0-5e21-4ff6-80e8-383300a92aa8
 An autonomous two-wheel-drive (2WD) line-following robot engineered using an **Arduino Uno**, an **L298N Dual H-Bridge motor driver**, and a front-mounted **IR reflectance sensor array** to track closed-loop paths, sharp curves, and track intersections.
 
 ## Hardware Architecture
+<img width="1536" height="2048" alt="PHOTO-2024-12-30-19-56-54" src="https://github.com/user-attachments/assets/e88b54e9-2993-4b27-808c-6a0c54dccd72" />
+
 - **Microcontroller:** Arduino Uno (ATmega328P)
 - **Motor Driver:** L298N Dual H-Bridge DC Motor Driver (PWM speed & direction control)
 - **Sensors:** Multi-channel Infrared (IR) Line-Tracking Sensor Array
