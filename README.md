@@ -1,5 +1,9 @@
 # Autonomous Line-Following Robot
 
+
+https://github.com/user-attachments/assets/d7f5bbb0-5e21-4ff6-80e8-383300a92aa8
+
+
 An autonomous two-wheel-drive (2WD) line-following robot engineered using an **Arduino Uno**, an **L298N Dual H-Bridge motor driver**, and a front-mounted **IR reflectance sensor array** to track closed-loop paths, sharp curves, and track intersections.
 
 ## Hardware Architecture
