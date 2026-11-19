@@ -19,4 +19,3 @@ An autonomous two-wheel-drive (2WD) line-following robot engineered using an **A
 
 ## Live Track Demonstration
 Watch the robot navigating curved segments and track junctions autonomously:
-> **Demo Video:** [Insert YouTube Unlisted Link Here]
