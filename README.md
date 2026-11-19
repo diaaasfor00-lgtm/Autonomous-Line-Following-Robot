@@ -22,5 +22,3 @@ An autonomous two-wheel-drive (2WD) line-following robot engineered using an **A
 - **Differential Drive Control:** Modulates left and right wheel speeds independently via PWM signals (`ENA`/`ENB`) through the L298N driver to handle tight corners smoothly without overshooting.
 - **Power & Signal Isolation:** Structured wiring separation between the Li-ion motor power rail and the microcontroller logic lines to prevent voltage drops and sensor noise.
 
-## Live Track Demonstration
-Watch the robot navigating curved segments and track junctions autonomously:
